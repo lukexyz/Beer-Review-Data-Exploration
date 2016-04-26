@@ -1,20 +1,23 @@
-## Beer-Review-Data-Exploration
+## Beer-Review-Data-Exploration <img style="float: left; padding-right: 30px;" src=http://i.imgur.com/k4lvXN4.png?1>
 
-Data Exploration of a 1.5 Million Review Dataset from BeerAdvocate.com
-Packages include: python, pandas, matplotlib, seaboarn, sklearn. 
-
+Luke Woods 2016 <br>
+<br>
+Data Exploration of a 1.5 Million Review Dataset from BeerAdvocate.com <br>
+Packages: python, pandas, matplotlib, seaboarn, sklearn.<br>
+<br>
+___
 ### Motivation
-Analytical and machine learning practice on an interesting dataset. 
+Analytical and machine learning practice on an interesting, medium sized dataset. 
 
 ### Code Example
-
-A small collage of some of the figures is shown below. 
+A small collage of some of some of the output figures is shown below. 
+[Continue to part one.](br_part_1.ipynb)
 
 <img align="middle" src=http://i.imgur.com/FNDLRVA.jpg>
 
 
-[Continue to the part one](br_part_1.ipynb)
 
 
-#### License
-MIT (X11)
+___
+
+*License: MIT (X11)*
