@@ -1,7 +1,7 @@
 ## Beer-Review-Data-Exploration
-<br>
-Data Exploration of a 1.5 Million Review Dataset from BeerAdvocate.com <br>
-Packages: python, pandas, matplotlib, seaboarn, sklearn.<br>
+Luke Woods (2016)
+Data exploration of a 1.5 million review dataset from BeerAdvocate.com <br>
+*Packages: python, pandas, matplotlib, seaboarn, sklearn.*
 <br>
 
 ### Motivation
